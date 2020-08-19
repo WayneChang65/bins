@@ -1,0 +1,7 @@
+{
+  // you can also use comments
+  // "app.theme": "dark"
+  "editor.lineWrapping": true,
+  "editor.lineNumbers": true,
+  "app.splitColumns": true
+}
